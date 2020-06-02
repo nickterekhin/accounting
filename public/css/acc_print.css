@@ -1,0 +1,24 @@
+body {
+  background-color: #fff; }
+
+.navigation-header {
+  display: none; }
+
+.wrapper {
+  padding: 0; }
+
+.sidebar {
+  display: none; }
+
+.page-head {
+  display: none; }
+
+.container-fluid {
+  padding: 0; }
+
+.flat-block-info {
+  padding: 0;
+  margin: 0;
+  border: none; }
+  .flat-block-info .content > .row {
+    display: none; }
